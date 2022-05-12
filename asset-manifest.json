@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactweb/static/css/main.3b2731f0.css",
-    "main.js": "/reactweb/static/js/main.c88fa5c2.js",
+    "main.css": "/reactweb/static/css/main.0c7934ea.css",
+    "main.js": "/reactweb/static/js/main.d7bde75b.js",
     "static/media/appdev.png": "/reactweb/static/media/appdev.e491a5b8191116eee899.png",
     "static/media/webdev.jpg": "/reactweb/static/media/webdev.3ce0ee52b4e3b35bcb34.jpg",
     "static/media/softdev.jpg": "/reactweb/static/media/softdev.1a1b0364a4051a8a3cc0.jpg",
@@ -10,11 +10,11 @@
     "static/media/img2.svg": "/reactweb/static/media/img2.39de5e61be2338575bffd00a5a9211fd.svg",
     "static/media/markiting.png": "/reactweb/static/media/markiting.f9b0d8e6c5bca3d5b9d4.png",
     "index.html": "/reactweb/index.html",
-    "main.3b2731f0.css.map": "/reactweb/static/css/main.3b2731f0.css.map",
-    "main.c88fa5c2.js.map": "/reactweb/static/js/main.c88fa5c2.js.map"
+    "main.0c7934ea.css.map": "/reactweb/static/css/main.0c7934ea.css.map",
+    "main.d7bde75b.js.map": "/reactweb/static/js/main.d7bde75b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2731f0.css",
-    "static/js/main.c88fa5c2.js"
+    "static/css/main.0c7934ea.css",
+    "static/js/main.d7bde75b.js"
   ]
 }
